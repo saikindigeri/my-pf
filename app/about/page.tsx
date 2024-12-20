@@ -6,7 +6,7 @@ import Header from '../header/page';
 const About: React.FC = () => {
   return (
     <>
-      <Header />
+
       <section id="about" className="pt-20 px-6 bg-white text-gray-800">
         <div className="container mx-auto flex flex-col md:flex-row items-center  justify-between">
           <div className="md:w-1/2 space-y-4">
@@ -14,7 +14,7 @@ const About: React.FC = () => {
               About Me
             </h1>
             <p className="text-lg leading-relaxed">
-              I am a passionate software engineer with over 20 years of experience in both web development and software development. My expertise lies in creating robust applications that enhance user experience and drive business success.
+              I am a passionate software engineer with over 2 years of experience in both web development and software development. My expertise lies in creating robust applications that enhance user experience and drive business success.
             </p>
             <p className="text-lg leading-relaxed">
               I specialize in leveraging modern technologies and frameworks to build scalable web applications. My collaborative approach allows me to work effectively with teams to deliver innovative solutions that meet real-world challenges.
